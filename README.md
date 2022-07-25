@@ -2,7 +2,7 @@
 
 - Pagina web con chat creado con el uso de websocket
 
--En un principio la pagina iba a tener una carga a heroku, pero como simplemente es un chat con MUY poco front, solo la dejo en git
+- En un principio la pagina iba a tener una carga a heroku, pero como simplemente es un chat con MUY poco front, solo la dejo en git
 ________________________________________________________________________________________________________________________________________
 
 - Proyecto con JS, Node JS, socket.io, express 
